@@ -2,7 +2,7 @@
 
 Simple reverse proxy to bypass CORS, used by [P-Stream](https://pstream.mov).
 Read the docs at https://docs.pstream.mov/proxy/introduction
-Currently hosted under: protoproxy.netlify.app
+Currently hosted under: https://protoproxy.netlify.app
 ---
 
 ### features:
